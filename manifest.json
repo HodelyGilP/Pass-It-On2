@@ -1,0 +1,13 @@
+{
+  "title": "Pass It On",
+  "version": "1.0",
+  "description": "Un juego psicológico y narrativo creado por Hodely. Cada decisión tiene un eco oculto.",
+  "author": "Hodely",
+  "platforms": ["windows"],
+  "executable": "Pass It On.exe",
+  "releaseDate": "2025-11-10",
+  "size": "133 MB",
+  "download": "https://tu-enlace-directo.com/PassItOn.zip",
+  "image": "https://tu-enlace-directo.com/imagen.jpg",
+  "tags": ["horror", "narrative", "psychological", "indie"]
+}
