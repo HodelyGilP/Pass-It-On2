@@ -1,11 +1,13 @@
 {
   "title": "Pass It On",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Juego psicológico y narrativo creado por Hodely.",
   "author": "Hodely",
   "platforms": ["windows"],
   "executable": "Pass It On.exe",
-  "download": "https://hodelygil.itch.io/pass-it-on/download",
+  "releaseDate": "2025-11-10",
+  "size": "133 MB",
+  "download": "https://tu-enlace-directo.com/PassItOn.zip",
   "image": "https://i.imgur.com/xxxxxxx.png",
   "tags": ["indie", "psychological", "horror"]
 }
